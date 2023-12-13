@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://facebook.com/wendel.luche/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FacebookBadge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/yukiro_21/?igshid=NzZlODBkYWE4Ng%3D%3D&fbclid=IwAR2Mza11xbxtD7Wi91HnrDKPpEwP0OFnIQvBxJ3UPoWklwgGQePSV4KcJy4">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
