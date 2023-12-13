@@ -27,7 +27,7 @@
 </div>
 
 
-### :woman_technologist: About Me :
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -36,9 +36,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-Luche-blue?style=flat&logo=facebook&logoColor=white)](Wendel)
+- How to reach me: [![Facebook Badge](https://img.shields.io/badge/-Luche-blue?style=flat&logo=facebook&logoColor=white)](wendel.luche)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div  id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="200" height="100"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="200" height="100"/>
@@ -53,13 +53,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
-### :fire: My Stats :
+### My Stats :
 <div align="center">
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yukiro21&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukiro21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :writing_hand: Blog Posts :
+### Blog Posts :
 
 </div>
